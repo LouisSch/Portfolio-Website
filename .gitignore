@@ -1,0 +1,34 @@
+# dependencies
+node_modules
+.env.local
+.env.*.local
+.env
+
+# builds
+.next
+out
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# vercel
+.vercel
+
+# system
+.DS_Store
+*.swp
+*.swo
+
+# editor
+.vscode
+.idea
+
+# TypeScript
+*.tsbuildinfo
+
+*.log
+*.bak
+*.tmp

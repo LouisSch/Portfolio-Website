@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Backtest Engine",
+        "description": "Modular high-performance C++ backtesting engine with tick-level simulation and plug-and-play strategies. Dockerized for easy execution.",
+        "icon": "fas fa-cogs",
+        "link": "https://github.com/LouisSch/Backtest-Engine",
+        "tags": ["C++", "Docker", "Backtesting", "Quant Finance", "Strategy Simulation"]
+    },
+    {
+        "title": "ARIMA & Technical Analysis",
+        "description": "End-to-end time series modeling combining ARIMA forecasting with technical indicators (RSI, MACD, Bollinger) for financial time series analysis and signal detection.",
+        "icon": "fas fa-signal",
+        "link": "",
+        "tags": ["Python", "Time Series", "ARIMA", "Finance", "Technical Analysis", "Statsmodels"]
+    },
+    {
+        "title": "SLV Calibration",
+        "description": "Python implementation of the local-stochastic volatility (SLV) model calibration using particle methods and numerical optimization. Visual results included.",
+        "icon": "fas fa-superscript",
+        "link": "https://github.com/LouisSch/SLV_Calibration/blob/main/SLV-Calibration.ipynb",
+        "tags": ["Python", "Quant Finance", "SLV Model", "Numerical Optimization", "Jupyter"]
+    },
+    {
+        "title": "Two-Factor Bergomi Model",
+        "description": "Numerical implementation of the two-factor Bergomi stochastic volatility model. Includes calibration routines, simulation, and analysis of volatility surfaces.",
+        "icon": "fas fa-wave-square",
+        "link": "https://github.com/LouisSch/Two_Factor_Bergomi/blob/main/Two_Factor_Bergomi.ipynb",
+        "tags": ["Python", "Quant Finance", "Stochastic Volatility", "Simulation", "Calibration"]
+    }
+]
