@@ -10,7 +10,7 @@
         "title": "ARIMA & Technical Analysis",
         "description": "End-to-end time series modeling combining ARIMA forecasting with technical indicators (RSI, MACD, Bollinger) for financial time series analysis and signal detection.",
         "icon": "fas fa-signal",
-        "link": "",
+        "link": "https://github.com/LouisSch/arima-tsa/blob/main/Arima_Technical_analysis.ipynb",
         "tags": ["Python", "Time Series", "ARIMA", "Finance", "Technical Analysis", "Statsmodels"]
     },
     {
