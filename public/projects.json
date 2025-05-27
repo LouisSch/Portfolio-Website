@@ -1,5 +1,12 @@
 [
     {
+        "title": "Market Sentiment Dashboard",
+        "description": "Real-time dashboard for visualizing sentiment in financial news using FastAPI and Dash. Containerized with Docker for rapid deployment.",
+        "icon": "fas fa-comments",
+        "link": "https://github.com/LouisSch/Market-Sentiment",
+        "tags": ["Python", "FastAPI", "Dash", "Docker", "Finance", "NLP", "Sentiment Analysis"]
+    },
+    {
         "title": "Backtest Engine",
         "description": "Modular high-performance C++ backtesting engine with tick-level simulation and plug-and-play strategies. Dockerized for easy execution.",
         "icon": "fas fa-cogs",
